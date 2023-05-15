@@ -1,0 +1,2440 @@
+
+
+*******************************************************************************
+Thu May  4 08:58:19 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/insertionSort.data"
+        format = z
+        x range restricted to [1000.00 : 10000.0]
+BREAK: bad data on line 1 of datafile
+
+*******************************************************************************
+Thu May  4 08:59:34 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/insertionSort.data"
+        format = z
+        x range restricted to [1000.00 : 10000.0]
+BREAK: bad data on line 1 of datafile
+
+*******************************************************************************
+Thu May  4 09:00:08 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/insertionSort.data"
+        format = z
+        x range restricted to [1000.00 : 10000.0]
+BREAK: bad data on line 1 of datafile
+
+*******************************************************************************
+Thu May  4 09:00:36 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/insertionSort.data"
+        format = z
+        x range restricted to [1000.00 : 10000.0]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332908085e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 7.3668415475e+00  -1.33e-10  5.03e+05    1.814140e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 7.36684
+rel. change during last iteration : -1.32621e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.904731
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.818538
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.81414e-06      +/- 5.684e-09    (0.3133%)
+
+
+*******************************************************************************
+Thu May  4 09:04:54 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/insertionSort.data"
+        format = z
+        x range restricted to [1000.00 : 10000.0]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332908085e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 7.3668415475e+00  -1.33e-10  5.03e+05    1.814140e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 7.36684
+rel. change during last iteration : -1.32621e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.904731
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.818538
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.81414e-06      +/- 5.684e-09    (0.3133%)
+
+
+*******************************************************************************
+Thu May  4 09:05:15 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/insertionSort.data"
+        format = z
+        x range restricted to [1000.00 : 10000.0]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332908085e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 7.3668415475e+00  -1.33e-10  5.03e+05    1.814140e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 7.36684
+rel. change during last iteration : -1.32621e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.904731
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.818538
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.81414e-06      +/- 5.684e-09    (0.3133%)
+
+
+*******************************************************************************
+Thu May  4 09:05:35 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/insertionSort.data"
+        format = z
+        x range restricted to [1000.00 : 10000.0]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332908085e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 7.3668415475e+00  -1.33e-10  5.03e+05    1.814140e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 7.36684
+rel. change during last iteration : -1.32621e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.904731
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.818538
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.81414e-06      +/- 5.684e-09    (0.3133%)
+
+
+*******************************************************************************
+Thu May  4 09:06:03 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/insertionSort.data"
+        format = z
+        x range restricted to [1000.00 : 10000.0]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332908085e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 7.3668415475e+00  -1.33e-10  5.03e+05    1.814140e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 7.36684
+rel. change during last iteration : -1.32621e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.904731
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.818538
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.81414e-06      +/- 5.684e-09    (0.3133%)
+
+
+*******************************************************************************
+Thu May  4 09:07:22 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        x range restricted to [1000.00 : 10000.0]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332869696e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.8179389162e+00   0.00e+00  5.03e+10    2.571821e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.81794
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.559557
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.313104
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.57182e-06      +/- 3.516e-09    (0.1367%)
+
+
+*******************************************************************************
+Thu May  4 09:11:47 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        x range restricted to [1000.00 : 10000.0]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332869696e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.8179389162e+00   0.00e+00  5.03e+10    2.571821e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.81794
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.559557
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.313104
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.57182e-06      +/- 3.516e-09    (0.1367%)
+
+
+*******************************************************************************
+Thu May  4 09:14:28 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data" using 1:2
+        format = x:z
+        x range restricted to [1000.00 : 10000.0]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332869696e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.8179389162e+00   0.00e+00  5.03e+10    2.571821e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.81794
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.559557
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.313104
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.57182e-06      +/- 3.516e-09    (0.1367%)
+
+
+*******************************************************************************
+Thu May  4 09:15:19 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        x range restricted to [1000.00 : 10000.0]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332869696e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.8179389162e+00   0.00e+00  5.03e+10    2.571821e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.81794
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.559557
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.313104
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.57182e-06      +/- 3.516e-09    (0.1367%)
+
+
+*******************************************************************************
+Thu May  4 09:15:36 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        x range restricted to [1000.00 : 10000.0]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332869696e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.8179389162e+00   0.00e+00  5.03e+10    2.571821e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.81794
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.559557
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.313104
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.57182e-06      +/- 3.516e-09    (0.1367%)
+
+
+*******************************************************************************
+Thu May  4 09:18:14 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data" using 1:2:3
+        format = x:z:s
+        x range restricted to [1000.00 : 10000.0]
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 1.9683140065e+17   0.00e+00  1.40e+08    1.000000e+00
+   5 4.6131006237e+01  -6.16e-11  1.40e+03    2.577348e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 46.131
+rel. change during last iteration : -6.16109e-16
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.26399
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.12567
+p-value of the Chisq distribution (FIT_P)              : 5.69409e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.57735e-06      +/- 5.103e-09    (0.198%)
+
+
+*******************************************************************************
+Thu May  4 09:18:44 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        x range restricted to [1000.00 : 10000.0]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332869696e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.8179389162e+00   0.00e+00  5.03e+10    2.571821e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.81794
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.559557
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.313104
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.57182e-06      +/- 3.516e-09    (0.1367%)
+
+
+*******************************************************************************
+Thu May  4 09:19:01 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        x range restricted to [1000.00 : 10000.0]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332869696e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.8179389162e+00   0.00e+00  5.03e+10    2.571821e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.81794
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.559557
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.313104
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.57182e-06      +/- 3.516e-09    (0.1367%)
+
+
+*******************************************************************************
+Thu May  4 09:19:42 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        x range restricted to [1000.00 : 10000.0]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332869696e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.8179389162e+00   0.00e+00  5.03e+10    2.571821e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.81794
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.559557
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.313104
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.57182e-06      +/- 3.516e-09    (0.1367%)
+
+
+*******************************************************************************
+Thu May  4 09:20:16 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332869696e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.8179389162e+00   0.00e+00  5.03e+10    2.571821e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.81794
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.559557
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.313104
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.57182e-06      +/- 3.516e-09    (0.1367%)
+
+
+*******************************************************************************
+Thu May  4 09:20:41 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332869696e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.8179389162e+00   0.00e+00  5.03e+10    2.571821e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.81794
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.559557
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.313104
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.57182e-06      +/- 3.516e-09    (0.1367%)
+
+
+*******************************************************************************
+Thu May  4 09:21:38 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332869696e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.8179389162e+00   0.00e+00  5.03e+10    2.571821e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.81794
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.559557
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.313104
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.57182e-06      +/- 3.516e-09    (0.1367%)
+
+
+*******************************************************************************
+Thu May  4 09:22:00 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332869696e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.8179389162e+00   0.00e+00  5.03e+10    2.571821e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.81794
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.559557
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.313104
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.57182e-06      +/- 3.516e-09    (0.1367%)
+
+
+*******************************************************************************
+Thu May  4 09:25:30 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332867108e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.2299541356e+01  -6.37e-11  5.03e+06    2.622915e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 22.2995
+rel. change during last iteration : -6.37271e-16
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.57408
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.47773
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.62292e-06      +/- 9.89e-09     (0.3771%)
+
+
+*******************************************************************************
+Thu May  4 09:26:05 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332867108e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.2299541356e+01  -6.37e-11  5.03e+06    2.622915e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 22.2995
+rel. change during last iteration : -6.37271e-16
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.57408
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.47773
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.62292e-06      +/- 9.89e-09     (0.3771%)
+
+
+*******************************************************************************
+Thu May  4 09:26:22 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332867108e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.2299541356e+01  -6.37e-11  5.03e+06    2.622915e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 22.2995
+rel. change during last iteration : -6.37271e-16
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.57408
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.47773
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.62292e-06      +/- 9.89e-09     (0.3771%)
+
+
+*******************************************************************************
+Thu May  4 09:26:41 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332867108e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.2299541356e+01  -6.37e-11  5.03e+06    2.622915e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 22.2995
+rel. change during last iteration : -6.37271e-16
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.57408
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.47773
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.62292e-06      +/- 9.89e-09     (0.3771%)
+
+
+*******************************************************************************
+Thu May  4 10:04:13 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332854226e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 6.4550231068e+00  -2.63e-09  5.03e+02    2.877158e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 6.45502
+rel. change during last iteration : -2.62806e-14
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.846891
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.717225
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.87716e-06      +/- 5.321e-09    (0.1849%)
+
+
+*******************************************************************************
+Thu May  4 10:05:41 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332854226e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 6.4550231068e+00  -2.63e-09  5.03e+02    2.877158e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 6.45502
+rel. change during last iteration : -2.62806e-14
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.846891
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.717225
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.87716e-06      +/- 5.321e-09    (0.1849%)
+
+
+*******************************************************************************
+Thu May  4 10:06:17 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Thu May  4 10:06:28 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3677820272e+10   0.00e+00  7.99e+04    1.000000e+00
+   4 9.7454031476e+03  -5.39e-07  7.99e+00    1.768959e-03
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 9745.4
+rel. change during last iteration : -5.38917e-12
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 32.9063
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1082.82
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 0.00176896       +/- 0.0001302    (7.359%)
+
+
+*******************************************************************************
+Thu May  4 10:07:19 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332854226e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 6.4550231068e+00  -2.63e-09  5.03e+02    2.877158e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 6.45502
+rel. change during last iteration : -2.62806e-14
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.846891
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.717225
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.87716e-06      +/- 5.321e-09    (0.1849%)
+
+
+*******************************************************************************
+Thu May  4 10:09:01 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332999093e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 3.8897840630e-01  -4.28e-11  5.03e+02    1.789294e-08
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.388978
+rel. change during last iteration : -4.2813e-16
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.207894
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0432198
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.78929e-08      +/- 1.306e-09    (7.3%)
+
+
+*******************************************************************************
+Thu May  4 10:09:26 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902222843e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.0690345347e-03  -4.19e-10  7.99e+04    1.153138e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00206903
+rel. change during last iteration : -4.19211e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0151622
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000229893
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.15314e-05      +/- 5.998e-08    (0.5201%)
+
+
+*******************************************************************************
+Thu May  4 10:09:34 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902222843e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.0690345347e-03  -4.19e-10  7.99e+04    1.153138e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00206903
+rel. change during last iteration : -4.19211e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0151622
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000229893
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.15314e-05      +/- 5.998e-08    (0.5201%)
+
+
+*******************************************************************************
+Thu May  4 10:10:06 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902155521e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.2220876212e-03  -1.76e-10  7.99e-01    1.205814e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00222209
+rel. change during last iteration : -1.75651e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.015713
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000246899
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.20581e-05      +/- 6.216e-08    (0.5155%)
+
+
+*******************************************************************************
+Thu May  4 10:10:31 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902155521e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.2220876212e-03  -1.76e-10  7.99e-01    1.205814e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00222209
+rel. change during last iteration : -1.75651e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.015713
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000246899
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.20581e-05      +/- 6.216e-08    (0.5155%)
+
+
+*******************************************************************************
+Thu May  4 10:11:41 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902155521e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.2220876212e-03  -1.76e-10  7.99e-01    1.205814e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00222209
+rel. change during last iteration : -1.75651e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.015713
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000246899
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.20581e-05      +/- 6.216e-08    (0.5155%)
+
+
+*******************************************************************************
+Thu May  4 10:16:18 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902155521e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.2220876212e-03  -1.76e-10  7.99e-01    1.205814e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00222209
+rel. change during last iteration : -1.75651e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.015713
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000246899
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.20581e-05      +/- 6.216e-08    (0.5155%)
+
+
+*******************************************************************************
+Thu May  4 10:18:04 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902155521e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.2220876212e-03  -1.76e-10  7.99e-01    1.205814e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00222209
+rel. change during last iteration : -1.75651e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.015713
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000246899
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.20581e-05      +/- 6.216e-08    (0.5155%)
+
+
+*******************************************************************************
+Thu May  4 10:18:21 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902155521e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.2220876212e-03  -1.76e-10  7.99e-01    1.205814e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00222209
+rel. change during last iteration : -1.75651e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.015713
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000246899
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.20581e-05      +/- 6.216e-08    (0.5155%)
+
+
+*******************************************************************************
+Thu May  4 10:19:12 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902155521e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.2220876212e-03  -1.76e-10  7.99e-01    1.205814e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00222209
+rel. change during last iteration : -1.75651e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.015713
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000246899
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.20581e-05      +/- 6.216e-08    (0.5155%)
+
+
+*******************************************************************************
+Thu May  4 10:21:28 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902155521e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.2220876212e-03  -1.76e-10  7.99e-01    1.205814e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00222209
+rel. change during last iteration : -1.75651e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.015713
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000246899
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.20581e-05      +/- 6.216e-08    (0.5155%)
+
+
+*******************************************************************************
+Thu May  4 10:22:20 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902155521e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.2220876212e-03  -1.76e-10  7.99e-01    1.205814e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00222209
+rel. change during last iteration : -1.75651e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.015713
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000246899
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.20581e-05      +/- 6.216e-08    (0.5155%)
+
+
+*******************************************************************************
+Thu May  4 10:22:38 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902155521e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.2220876212e-03  -1.76e-10  7.99e-01    1.205814e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00222209
+rel. change during last iteration : -1.75651e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.015713
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000246899
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.20581e-05      +/- 6.216e-08    (0.5155%)
+
+
+*******************************************************************************
+Thu May  4 10:24:16 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902107322e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.7432383365e-03  -3.64e-10  7.99e-01    1.243527e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00274324
+rel. change during last iteration : -3.63609e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0174586
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000304804
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.24353e-05      +/- 6.906e-08    (0.5554%)
+
+
+*******************************************************************************
+Thu May  4 10:25:01 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902107322e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.7432383365e-03  -3.64e-10  7.99e-01    1.243527e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00274324
+rel. change during last iteration : -3.63609e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0174586
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000304804
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.24353e-05      +/- 6.906e-08    (0.5554%)
+
+
+*******************************************************************************
+Thu May  4 10:26:32 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/stdSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3903368160e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.1942213852e-04  -8.65e-11  7.99e-01    2.570046e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000219422
+rel. change during last iteration : -8.64705e-16
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00493763
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.43802e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 2.57005e-06      +/- 1.953e-08    (0.76%)
+
+
+*******************************************************************************
+Thu May  4 10:27:44 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902107322e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.7432383365e-03  -3.64e-10  7.99e-01    1.243527e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00274324
+rel. change during last iteration : -3.63609e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0174586
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000304804
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.24353e-05      +/- 6.906e-08    (0.5554%)
+
+
+*******************************************************************************
+Thu May  4 10:31:07 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332999025e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 4.9821452741e-01  -2.23e-11  5.03e+02    1.924884e-08
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.498215
+rel. change during last iteration : -2.2284e-16
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.235281
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0553572
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.92488e-08      +/- 1.478e-09    (7.68%)
+
+
+*******************************************************************************
+Thu May  4 10:32:59 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902162807e+10   0.00e+00  7.99e+04    1.000000e+00
+   4 5.5157906014e-03  -9.56e-01  7.99e+00    1.200113e-05
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00551579
+rel. change during last iteration : -9.55533e-06
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0247561
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000612866
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.20011e-05      +/- 9.793e-08    (0.816%)
+
+
+*******************************************************************************
+Thu May  4 10:39:53 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902142636e+10   0.00e+00  7.99e+04    1.000000e+00
+   4 5.9416022827e-03  -8.87e-01  7.99e+00    1.215895e-05
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.0059416
+rel. change during last iteration : -8.87053e-06
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0256939
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000660178
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.2159e-05       +/- 1.016e-07    (0.8359%)
+
+
+*******************************************************************************
+Thu May  4 10:40:43 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902142636e+10   0.00e+00  7.99e+04    1.000000e+00
+   4 5.9416022827e-03  -8.87e-01  7.99e+00    1.215895e-05
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.0059416
+rel. change during last iteration : -8.87053e-06
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0256939
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000660178
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.2159e-05       +/- 1.016e-07    (0.8359%)
+
+
+*******************************************************************************
+Thu May  4 10:41:02 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902142636e+10   0.00e+00  7.99e+04    1.000000e+00
+   4 5.9416022827e-03  -8.87e-01  7.99e+00    1.215895e-05
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.0059416
+rel. change during last iteration : -8.87053e-06
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0256939
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000660178
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.2159e-05       +/- 1.016e-07    (0.8359%)
+
+
+*******************************************************************************
+Thu May  4 10:41:33 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902197332e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 4.9968643365e-03   0.00e+00  7.99e+07    1.173099e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00499686
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0235628
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000555207
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.1731e-05       +/- 9.321e-08    (0.7946%)
+
+
+*******************************************************************************
+Thu May  4 10:43:21 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902201655e+10   0.00e+00  7.99e+04    1.000000e+00
+   4 6.5139491821e-03  -8.09e-01  7.99e+00    1.169717e-05
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00651395
+rel. change during last iteration : -8.09113e-06
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.026903
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000723772
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.16972e-05      +/- 1.064e-07    (0.9098%)
+
+
+*******************************************************************************
+Thu May  4 10:43:44 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902197332e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 4.9968643365e-03   0.00e+00  7.99e+07    1.173099e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00499686
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0235628
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000555207
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.1731e-05       +/- 9.321e-08    (0.7946%)
+
+
+*******************************************************************************
+Thu May  4 10:47:59 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332854107e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 5.4957041902e-01  -8.08e-10  5.03e+02    2.879516e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.54957
+rel. change during last iteration : -8.08066e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.24711
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0610634
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.87952e-06      +/- 1.553e-09    (0.05392%)
+
+
+*******************************************************************************
+Thu May  4 10:48:32 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332854107e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 5.4957041902e-01  -8.08e-10  5.03e+02    2.879516e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.54957
+rel. change during last iteration : -8.08066e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.24711
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0610634
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.87952e-06      +/- 1.553e-09    (0.05392%)
+
+
+*******************************************************************************
+Thu May  4 10:51:26 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/insertionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332999945e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 1.9728990107e-03  -1.06e-08  5.03e+02    1.086118e-09
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.0019729
+rel. change during last iteration : -1.05953e-13
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0148058
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000219211
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.08612e-09      +/- 9.302e-11    (8.565%)
+
+
+*******************************************************************************
+Thu May  4 10:52:19 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/insertionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Thu May  4 10:52:29 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/insertionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3903606460e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 4.8200852057e-05   0.00e+00  7.99e+07    7.055223e-07
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 4.82009e-05
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00231423
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.35565e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 7.05522e-07      +/- 9.155e-09    (1.298%)
+
+
+*******************************************************************************
+Thu May  4 10:54:42 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3594084344e+10   0.00e+00  7.99e+04    1.000000e+00
+   4 1.7873723064e+04  -2.93e-07  7.99e+00    2.425573e-03
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 17873.7
+rel. change during last iteration : -2.9344e-12
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 44.5642
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1985.97
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 0.00242557       +/- 0.0001763    (7.268%)
+
+
+*******************************************************************************
+Thu May  4 10:55:16 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Thu May  4 10:55:28 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Thu May  4 10:56:16 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332800229e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 5.4029724712e+00  -9.04e-10  5.03e+04    3.942905e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 5.40297
+rel. change during last iteration : -9.04128e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.77481
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.60033
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.94291e-06      +/- 4.868e-09    (0.1235%)
+
+
+*******************************************************************************
+Thu May  4 10:56:45 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332999436e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 1.6079231781e-01  -1.38e-10  5.03e+02    1.112375e-08
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.160792
+rel. change during last iteration : -1.38094e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.133663
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0178658
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.11237e-08      +/- 8.398e-10    (7.549%)
+
+
+*******************************************************************************
+Thu May  4 10:57:21 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902778871e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 2.9235970584e-04   0.00e+00  7.99e+07    7.180828e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00029236
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00569951
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.24844e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 7.18083e-06      +/- 2.255e-08    (0.314%)
+
+
+*******************************************************************************
+Thu May  4 10:57:57 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/stdSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3903686013e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 5.0572007111e-06   0.00e+00  7.99e-01    8.307885e-08
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 5.0572e-06
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000749607
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.61911e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 8.30788e-08      +/- 2.965e-09    (3.569%)
+
+
+*******************************************************************************
+Thu May  4 11:01:03 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/stdSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3903679750e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 1.4768564134e-05  -4.59e-11  7.99e+01    1.320813e-07
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.47686e-05
+rel. change during last iteration : -4.5883e-16
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.001281
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.64095e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.32081e-07      +/- 5.067e-09    (3.837%)
+
+
+*******************************************************************************
+Thu May  4 11:02:28 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3681634901e+10   0.00e+00  7.99e+04    1.000000e+00
+   4 9.4601222500e+03  -5.55e-07  7.99e+00    1.739058e-03
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 9460.12
+rel. change during last iteration : -5.55246e-12
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 32.4211
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1051.12
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 0.00173906       +/- 0.0001283    (7.375%)
+
+
+*******************************************************************************
+Thu May  4 11:02:54 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332856674e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 2.6879254352e+00  -6.61e-11  5.03e+04    2.828837e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.68793
+rel. change during last iteration : -6.60865e-16
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.546496
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.298658
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.82884e-06      +/- 3.434e-09    (0.1214%)
+
+
+*******************************************************************************
+Thu May  4 11:03:26 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332999025e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 4.2997291798e-01  -6.46e-11  5.03e+02    1.925057e-08
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.429973
+rel. change during last iteration : -6.45519e-16
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.218574
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0477748
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.92506e-08      +/- 1.373e-09    (7.134%)
+
+
+*******************************************************************************
+Thu May  4 11:03:44 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332999025e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 4.2997291798e-01  -6.46e-11  5.03e+02    1.925057e-08
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.429973
+rel. change during last iteration : -6.45519e-16
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.218574
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0477748
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.92506e-08      +/- 1.373e-09    (7.134%)
+
+
+*******************************************************************************
+Thu May  4 11:03:57 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSortMedian.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3902113137e+10   0.00e+00  7.99e+04    1.000000e+00
+   4 8.3648735207e-03  -6.30e-01  7.99e+00    1.238977e-05
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00836487
+rel. change during last iteration : -6.30077e-06
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0304866
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00092943
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 1.23898e-05      +/- 1.206e-07    (0.9734%)
+
+
+*******************************************************************************
+Thu May  4 11:07:06 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3681634901e+10   0.00e+00  7.99e+04    1.000000e+00
+   4 9.4601222500e+03  -5.55e-07  7.99e+00    1.739058e-03
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 9460.12
+rel. change during last iteration : -5.55246e-12
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 32.4211
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1051.12
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 0.00173906       +/- 0.0001283    (7.375%)
+
+
+*******************************************************************************
+Thu May  4 11:09:16 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3682644293e+10   0.00e+00  7.99e+04    1.000000e+00
+   4 9.1707234974e+03  -5.73e-07  7.99e+00    1.731144e-03
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 9170.72
+rel. change during last iteration : -5.72808e-12
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 31.9213
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1018.97
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 0.00173114       +/- 0.0001263    (7.294%)
+
+
+*******************************************************************************
+Thu May  4 11:10:37 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332836692e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 4.2518395434e+00  -3.55e-10  5.03e+02    3.223234e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 4.25184
+rel. change during last iteration : -3.55118e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.687333
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.472427
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.22323e-06      +/- 4.318e-09    (0.134%)
+
+
+*******************************************************************************
+Thu May  4 11:11:27 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/insertionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332805681e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 4.5063990027e+01  -6.78e-10  5.03e+02    3.835300e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 45.064
+rel. change during last iteration : -6.77999e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.23766
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.00711
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 3.8353e-06       +/- 1.406e-08    (0.3666%)
+
+
+*******************************************************************************
+Thu May  4 11:12:40 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/insertionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332999944e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 1.9421649337e-03  -1.08e-08  5.03e+02    1.109741e-09
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00194216
+rel. change during last iteration : -1.07741e-13
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.01469
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000215796
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 1.10974e-09      +/- 9.23e-11     (8.317%)
+
+
+*******************************************************************************
+Thu May  4 11:13:41 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/selectionSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 2.5332853446e+16   0.00e+00  5.03e+07    1.000000e+00
+   5 4.2680597757e+00  -2.08e-10  5.03e+02    2.892562e-06
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 4.26806
+rel. change during last iteration : -2.08099e-15
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.688643
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.474229
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.89256e-06      +/- 4.327e-09    (0.1496%)
+
+
+*******************************************************************************
+Thu May  4 11:16:42 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/stdSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3903689754e+10   0.00e+00  7.99e+04    1.000000e+00
+   5 5.5949243041e-07  -5.68e-11  7.99e-01    5.380716e-08
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 5.59492e-07
+rel. change during last iteration : -5.67724e-16
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000249331
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.21658e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 5.38072e-08      +/- 9.863e-10    (1.833%)
+
+
+*******************************************************************************
+Thu May  4 11:17:08 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3776127914e+10   0.00e+00  7.99e+04    1.000000e+00
+   4 3.1586198175e+03  -1.67e-06  7.99e+00    9.986559e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 3158.62
+rel. change during last iteration : -1.66535e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 18.7339
+variance of residuals (reduced chisquare) = WSSR/ndf   : 350.958
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 0.000998656      +/- 7.411e-05    (7.421%)
+
+
+*******************************************************************************
+Thu May  4 11:17:58 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3776127914e+10   0.00e+00  7.99e+04    1.000000e+00
+   4 3.1586198175e+03  -1.67e-06  7.99e+00    9.986559e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 3158.62
+rel. change during last iteration : -1.66535e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 18.7339
+variance of residuals (reduced chisquare) = WSSR/ndf   : 350.958
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 0.000998656      +/- 7.411e-05    (7.421%)
+
+
+*******************************************************************************
+Thu May  4 11:19:54 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3776127914e+10   0.00e+00  7.99e+04    1.000000e+00
+   4 3.1586198175e+03  -1.67e-06  7.99e+00    9.986559e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 3158.62
+rel. change during last iteration : -1.66535e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 18.7339
+variance of residuals (reduced chisquare) = WSSR/ndf   : 350.958
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 0.000998656      +/- 7.411e-05    (7.421%)
+
+
+*******************************************************************************
+Thu May  4 11:20:17 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3776127914e+10   0.00e+00  7.99e+04    1.000000e+00
+   4 3.1586198175e+03  -1.67e-06  7.99e+00    9.986559e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 3158.62
+rel. change during last iteration : -1.66535e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 18.7339
+variance of residuals (reduced chisquare) = WSSR/ndf   : 350.958
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 0.000998656      +/- 7.411e-05    (7.421%)
+
+
+*******************************************************************************
+Tue May  9 08:45:13 2023
+
+
+FIT:    data read from "/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/quickSort.data"
+        format = z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x*log(x)/log(2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1           
+   0 6.3776127914e+10   0.00e+00  7.99e+04    1.000000e+00
+   4 3.1586198175e+03  -1.67e-06  7.99e+00    9.986559e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 3158.62
+rel. change during last iteration : -1.66535e-11
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 18.7339
+variance of residuals (reduced chisquare) = WSSR/ndf   : 350.958
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 0.000998656      +/- 7.411e-05    (7.421%)

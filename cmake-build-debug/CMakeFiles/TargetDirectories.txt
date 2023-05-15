@@ -1,0 +1,3 @@
+/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/CMakeFiles/DoaLabb2.dir
+/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danielengman/CLionProjects/DoaLabb2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
